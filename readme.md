@@ -21,6 +21,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📋 Índice](#-índice)
 - [📝 Introdução](#-introdução)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
+- [🎯 Foco no Resultado]_(#-objetivo-do-treino) 
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
@@ -72,9 +73,21 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 
 ---
 
+## 🎯 Foco no Resultado
+
+A segunda regra é informar qual o objetivo do treino. Dependendo do objetivo, o treino sugerido pode variar: 
+| ** Imagem**                        | **Foco no Resultado** | **Tipo de Treino Sugerido **|
+-------------------------------------| ----------------------| ----------------------------|
+- **Ganho de massa muscular**
+- **Perda de peso**
+- **Definição**
+
+---
+
+
 ## 📅 Dias Disponíveis para Treino
 
-A segunda regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
+A terceira regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
@@ -90,7 +103,7 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
