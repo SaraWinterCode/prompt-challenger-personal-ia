@@ -23,6 +23,8 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
+- [🧘🏼Meditação]_(#5-minutos-de-meditação)
+- [🚰Beba Água]_(beba-água-sem-moderação)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
@@ -101,6 +103,18 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 | <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
 ---
+
+## 🧘 5 Minutos de Meditação
+
+A quarta regra estabelece que o usuário medite 5 minutos após o treino. 
+
+| **https://www.youtube.com/watch?v=fmBRuuQ0Gs8|**
+
+---
+
+## 🚰Beba água sem moderação
+
+**A quinta regra é sugerir que o usuário consuma pelo menos 2 litros de água por dia.** 
 
 ## 🛠️ Regras de negócio
 
